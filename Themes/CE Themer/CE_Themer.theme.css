@@ -233,7 +233,9 @@
 .leading_c38106::before {
   content: "CE Themer" !important;
 }
-
+.leading_c38106::after, :is(.theme-dark, .theme-light):not(.platform-osx) .leading_c38106::after {
+  content: "1.6.7"
+}
 .markup__75297 {
   color: var(--text-primary);
 }
