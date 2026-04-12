@@ -38,7 +38,8 @@
   --reply-color-secondary: rgb(255, 0, 0, 0.87);
   --name-color: rgb(255, 0, 0, 0.87);
   --info-color: rgb(255, 0, 0, 0.87);
-  
+  --normal-text: rgb(255, 0, 0);;
+  --muted-text: rgb(255, 0, 0);;
   
   /* REST OF COLORS */
   --channel-color: rgb(148, 10, 10, 1);
@@ -218,11 +219,7 @@
   --popout-shading: rgba(0, 0, 0, 0.8); /* popouts background shading color [default: rgba(0, 0, 0, 0.8)] */
   --modal-shading: rgba(0, 0, 0, 0.6); /* modals background shading color [default: rgba(0, 0, 0, 0.6)] */
   --input-shading: rgba(255, 255, 255, 0.05); /* inputs background shading color [default: rgba(255, 255, 255, 0.05)] */
-  --normal-text: #ff0000; /* text color [default: #dcdcde] */
-  --muted-text: #ff0000; /* muted text color [default: #86868e] */
-  --header-primary: rgb(255, 0, 0);
-  --header-secondary: rgb(255, 0, 0);
-  --text-secondary: rgb(255, 0, 0);
+ 
 }
 
 
