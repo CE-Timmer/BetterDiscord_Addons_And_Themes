@@ -2,7 +2,7 @@
  * @name GlobalServerNotifications
  * @description Create one global server notification preset, choose which servers should use it, and apply it in one go.
  * @version 0.1.0
- * @author Codex
+ * @author CE-Timmer
  * @website https://betterdiscord.app/
  * @source https://betterdiscord.app/
  */
